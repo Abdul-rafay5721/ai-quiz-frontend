@@ -25,7 +25,7 @@ export default function ProjectSelection() {
           Continue with Existing Project
         </h2>
         <p className="mt-3 text-lg text-center">
-          Resume work on a project you've already started effortlessly.
+          Resume work on a project you&apos;ve already started effortlessly.
         </p>
       </div>
 
