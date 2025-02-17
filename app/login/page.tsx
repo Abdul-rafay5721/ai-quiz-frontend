@@ -108,7 +108,7 @@ const LoginPage = (props: Props) => {
               </button>
 
               {/* Divider */}
-              <div className="flex items-center justify-center">
+              {/* <div className="flex items-center justify-center">
                 <span className="text-sm text-gray-400">
                   Don&apos;t have an account?{" "}
                 </span>
@@ -119,7 +119,7 @@ const LoginPage = (props: Props) => {
                 >
                   Register
                 </Link>
-              </div>
+              </div> */}
             </form>
           </div>
         </div>
